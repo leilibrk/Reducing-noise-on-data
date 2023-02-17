@@ -1,6 +1,6 @@
 # Reducing-noise-on-data
-Using matplotlib to reduce noises as a project in Linear Algebra course.
-In this project I use least-squares for denoising the charts. 
+Using matplotlib to reduce the noise of a chart. The chart shows the price of Bitcoin every 2 hours from the end of 2020 to the 20th of May.
+In this project I use least-squares for denoising the chart. 
 ## Results:
 
 1. too much denoised
